@@ -2,6 +2,6 @@
 .jshintrc
 .tern-project
 node_modules
-docs
+docs t
 old
 site
